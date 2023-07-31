@@ -124,7 +124,7 @@ As we can see the spring water source has the highest percentage of functioning 
 
 
 **Water points by Functionality**
-![Rn](Images/R.jpg)
+![pic3](Images/Screenshot2023-07-31141346.png)
 
 This graph shows the functionality percentages of all the different types of water points.
 
