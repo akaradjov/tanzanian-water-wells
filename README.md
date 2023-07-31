@@ -104,7 +104,7 @@ Feature (variable) importance indicates how much each feature contributes to the
 
 ## Data Visuals
 **Water Extraction by Functionality**
-![extraction](Images/extraction.jpg)
+![extraction](Images/extraction.png)
 
 This graph shows the functionality percentages of all the different types of water extraction devices.
 
@@ -114,7 +114,7 @@ As we can see a Rope pump has the highest percentage of functioning water wells 
 
 
 **Water Source by Functionality**
-![source](Images/source.jpg)
+![source](Images/source.png)
 
 This graph shows the functionality percentages of all the different types of water sources.
 
